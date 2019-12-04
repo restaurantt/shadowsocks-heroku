@@ -85,3 +85,5 @@ Setting 页面 ——> Reveal Config Vars，设置参数如下图：
 5. 现在你就可以访问 Google 了
 
 ![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/7-min.png)
+
+
